@@ -7,3 +7,14 @@
 **** "of": internal working principle or structure
 **** "in": deep expertise within the field
 **** +"at"+: Wrong grammar
+**  Relative clause (관계절)
+*** 선행사 + which + S + V + Preposition
+*** Informal == Formal
+**** which I am interested in == in which I am interested
+**** which she is looking for == for which she is looking
+**** which they decided on ==== on which they decided
+**** which we talked about == about with we talked
+**** which he applied for == for which he applied
+**** which the company invested in == in which the company invested
+**** which the book refers to == to which the book refers
+**** which the team agreed upon == upon which the team agreed
