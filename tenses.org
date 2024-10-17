@@ -1,0 +1,8 @@
+* The 12 English Tenses
+** The Tenses Framework
+|                    | Past                        | Present                      | Future                            |
+|--------------------+-----------------------------+------------------------------+-----------------------------------|
+| Simple             | I spoke English             | I speak English              | I will speak English              |
+| Perfect            | I had spoken English        | I have spoken English        | I will have spoken English        |
+| Continuous         | I was speaking English      | I am speaking English        | I will be speaking English        |
+| Perfect Continuous | I had been speaking English | I have been speaking English | I will have been speaking English |
